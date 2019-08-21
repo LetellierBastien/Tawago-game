@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 286b38ca4511c41c6b58b341950058c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Wufdobpos: {fileID: 490434, guid: 10b61480e01a0524db6d9cb43f6d9527, type: 2}
+  - him: {fileID: 190434, guid: 10b61480e01a0524db6d9cb43f6d9527, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

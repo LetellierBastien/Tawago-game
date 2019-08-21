@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5f0778e9c870240d2a98fba862454423
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Dygoak: {fileID: 5492684, guid: 8b3b501f0eca8e244a4c1a539ac5edbc, type: 2}
+  - Bullet: {fileID: 5406706, guid: 02b3e1fa905704d6cb8d1df1168b0665, type: 2}
+  - position: {fileID: 492684, guid: 8b3b501f0eca8e244a4c1a539ac5edbc, type: 2}
+  - Dygoakpos: {fileID: 492694, guid: 8b3b501f0eca8e244a4c1a539ac5edbc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

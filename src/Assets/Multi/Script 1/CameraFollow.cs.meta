@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b3d0c832cab9d411386e1a65490ee88d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 444174, guid: 2f663a233a86dd742921e2072a3d589b, type: 2}
+  - camlook: {fileID: 416002, guid: f88d61a8b4efed647b94edc421d990b6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

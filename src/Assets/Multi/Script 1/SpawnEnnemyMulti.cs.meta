@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0701c99d4e3a44160af0de7c00a6675c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Wufdob: {fileID: 5490418, guid: 10b61480e01a0524db6d9cb43f6d9527, type: 2}
+  - Dygoak: {fileID: 5492684, guid: 8b3b501f0eca8e244a4c1a539ac5edbc, type: 2}
+  - origine: {fileID: 442090, guid: 0fec421d9eed5be44962cfda105796c5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
